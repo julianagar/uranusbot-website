@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    font-family: 'Helvetica Neue';
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-family: 'Helvetica Neue';
+    text-align:center;
+}
+
+div {
+    display:flex;
+    justify-content:center;
+}
+
+footer {
+    text-align:center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
