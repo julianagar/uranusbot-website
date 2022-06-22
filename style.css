@@ -4,13 +4,20 @@
 }
 
 h1 {
-    color: blue;
+    background-color: #764AF1;
+    padding: 20px;
+    position: sticky;
+    color: lightblue;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
+body {
+    background-color: #9772FB;
+}
+
 p {
-    color: black;
+    color: white;
     font-family: Arial, Helvetica, sans-serif;
     text-align:center;
 }
@@ -41,4 +48,13 @@ i {
     border-bottom: 1px dashed black;
     padding-bottom: 10px;
     padding-top:10px;
+}
+
+.button  {
+    display:inline ;
+    margin: 10px;
+}
+
+.labels {
+    color:white
 }
