@@ -10,6 +10,8 @@ h1 {
     color: lightblue;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
 }
 
 body {
@@ -22,6 +24,9 @@ p {
     text-align:center;
 }
 
+.byline {
+    font-family: 'Poppins', sans-serif;
+}
 div {
     display:flex;
     justify-content:center;
@@ -50,11 +55,12 @@ i {
     padding-top:10px;
 }
 
-.button  {
-    display:inline ;
+.button {
+    display:inline;
     margin: 10px;
 }
 
 .labels {
-    color:white
+    color:white;
+    font-family: 'Poppins', sans-serif;
 }
